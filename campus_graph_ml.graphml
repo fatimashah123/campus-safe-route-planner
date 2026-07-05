@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="ml_risk_score" attr.type="double" />
+  <key id="d5" for="edge" attr.name="risk_score" attr.type="double" />
+  <key id="d4" for="edge" attr.name="risk_raw" attr.type="double" />
+  <key id="d3" for="edge" attr.name="incident_count" attr.type="long" />
+  <key id="d2" for="edge" attr.name="length" attr.type="double" />
+  <key id="d1" for="node" attr.name="x" attr.type="double" />
+  <key id="d0" for="node" attr.name="y" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="sino_pak_centre_ai">
+      <data key="d0">33.91032862256931</data>
+      <data key="d1">72.9213952435269</data>
+    </node>
+    <node id="stc_cafe">
+      <data key="d0">33.909442045505806</data>
+      <data key="d1">72.92258221365968</data>
+    </node>
+    <node id="open_gym">
+      <data key="d0">33.90894128957056</data>
+      <data key="d1">72.9228690647751</data>
+    </node>
+    <node id="school_of_computing">
+      <data key="d0">33.90888382558654</data>
+      <data key="d1">72.91939717713674</data>
+    </node>
+    <node id="suites_foreign_faculty">
+      <data key="d0">33.91025830249714</data>
+      <data key="d1">72.92413406738025</data>
+    </node>
+    <node id="academic_block_a">
+      <data key="d0">33.90898470336545</data>
+      <data key="d1">72.91905375044657</data>
+    </node>
+    <node id="dept_electrical_mechanical">
+      <data key="d0">33.90915345511278</data>
+      <data key="d1">72.9190619937154</data>
+    </node>
+    <node id="nanogen">
+      <data key="d0">33.90965058669684</data>
+      <data key="d1">72.92040015102229</data>
+    </node>
+    <node id="main_executive_block">
+      <data key="d0">33.90875940438815</data>
+      <data key="d1">72.91798354194209</data>
+    </node>
+    <node id="football_ground">
+      <data key="d0">33.90814287890393</data>
+      <data key="d1">72.91978369427744</data>
+    </node>
+    <node id="academic_block_c1">
+      <data key="d0">33.91018100577292</data>
+      <data key="d1">72.92113360939288</data>
+    </node>
+    <node id="vizta_labs">
+      <data key="d0">33.91069283901439</data>
+      <data key="d1">72.92313036644451</data>
+    </node>
+    <node id="sus_spot">
+      <data key="d0">33.908686582587315</data>
+      <data key="d1">72.92302709907285</data>
+    </node>
+    <edge source="sino_pak_centre_ai" target="academic_block_c1">
+      <data key="d2">29.19531641336641</data>
+      <data key="d3">9</data>
+      <data key="d4">19.0</data>
+      <data key="d5">0.25675675675675674</data>
+      <data key="d6">0.2522352531102531</data>
+    </edge>
+    <edge source="sino_pak_centre_ai" target="nanogen">
+      <data key="d2">118.81468119882562</data>
+      <data key="d3">14</data>
+      <data key="d4">27.0</data>
+      <data key="d5">0.36486486486486486</data>
+      <data key="d6">0.39082989157989134</data>
+    </edge>
+    <edge source="sino_pak_centre_ai" target="stc_cafe">
+      <data key="d2">147.36631553074764</data>
+      <data key="d3">8</data>
+      <data key="d4">15.0</data>
+      <data key="d5">0.20270270270270271</data>
+      <data key="d6">0.22075198412698427</data>
+    </edge>
+    <edge source="sino_pak_centre_ai" target="vizta_labs">
+      <data key="d2">165.16251767947924</data>
+      <data key="d3">20</data>
+      <data key="d4">46.0</data>
+      <data key="d5">0.6216216216216216</data>
+      <data key="d6">0.6055405405405402</data>
+    </edge>
+    <edge source="stc_cafe" target="open_gym">
+      <data key="d2">61.653662118444394</data>
+      <data key="d3">11</data>
+      <data key="d4">27.0</data>
+      <data key="d5">0.36486486486486486</data>
+      <data key="d6">0.3431107796107793</data>
+    </edge>
+    <edge source="stc_cafe" target="sus_spot">
+      <data key="d2">93.49955785248625</data>
+      <data key="d3">5</data>
+      <data key="d4">11.0</data>
+      <data key="d5">0.14864864864864866</data>
+      <data key="d6">0.1480439189189189</data>
+    </edge>
+    <edge source="stc_cafe" target="suites_foreign_faculty">
+      <data key="d2">169.54891552954172</data>
+      <data key="d3">6</data>
+      <data key="d4">12.0</data>
+      <data key="d5">0.16216216216216217</data>
+      <data key="d6">0.16670994208494203</data>
+    </edge>
+    <edge source="stc_cafe" target="academic_block_c1">
+      <data key="d2">156.9148166952161</data>
+      <data key="d3">10</data>
+      <data key="d4">22.0</data>
+      <data key="d5">0.2972972972972973</data>
+      <data key="d6">0.2844745183495185</data>
+    </edge>
+    <edge source="stc_cafe" target="vizta_labs">
+      <data key="d2">147.9952443598572</data>
+      <data key="d3">11</data>
+      <data key="d4">22.0</data>
+      <data key="d5">0.2972972972972973</data>
+      <data key="d6">0.3169000331500332</data>
+    </edge>
+    <edge source="open_gym" target="sus_spot">
+      <data key="d2">31.85647632798502</data>
+      <data key="d3">9</data>
+      <data key="d4">20.0</data>
+      <data key="d5">0.2702702702702703</data>
+      <data key="d6">0.2536316495066495</data>
+    </edge>
+    <edge source="open_gym" target="suites_foreign_faculty">
+      <data key="d2">187.28034919031984</data>
+      <data key="d3">7</data>
+      <data key="d4">17.0</data>
+      <data key="d5">0.22972972972972974</data>
+      <data key="d6">0.23370549120549125</data>
+    </edge>
+    <edge source="school_of_computing" target="academic_block_a">
+      <data key="d2">33.61911476896713</data>
+      <data key="d3">0</data>
+      <data key="d4">0.0</data>
+      <data key="d5">0.0</data>
+      <data key="d6">0.04245045045045043</data>
+    </edge>
+    <edge source="school_of_computing" target="dept_electrical_mechanical">
+      <data key="d2">43.07744909814821</data>
+      <data key="d3">11</data>
+      <data key="d4">23.0</data>
+      <data key="d5">0.3108108108108108</data>
+      <data key="d6">0.32568960843960837</data>
+    </edge>
+    <edge source="school_of_computing" target="football_ground">
+      <data key="d2">89.77935388523647</data>
+      <data key="d3">7</data>
+      <data key="d4">18.0</data>
+      <data key="d5">0.24324324324324326</data>
+      <data key="d6">0.22827917202917206</data>
+    </edge>
+    <edge source="school_of_computing" target="nanogen">
+      <data key="d2">125.84180798186186</data>
+      <data key="d3">20</data>
+      <data key="d4">46.0</data>
+      <data key="d5">0.6216216216216216</data>
+      <data key="d6">0.5987837837837834</data>
+    </edge>
+    <edge source="school_of_computing" target="main_executive_block">
+      <data key="d2">131.1869138009666</data>
+      <data key="d3">9</data>
+      <data key="d4">16.0</data>
+      <data key="d5">0.21621621621621623</data>
+      <data key="d6">0.23549973187473194</data>
+    </edge>
+    <edge source="suites_foreign_faculty" target="vizta_labs">
+      <data key="d2">104.46883586717338</data>
+      <data key="d3">17</data>
+      <data key="d4">35.0</data>
+      <data key="d5">0.47297297297297297</data>
+      <data key="d6">0.4926666666666671</data>
+    </edge>
+    <edge source="suites_foreign_faculty" target="sus_spot">
+      <data key="d2">202.43293268445976</data>
+      <data key="d3">33</data>
+      <data key="d4">74.0</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.8975675675675678</data>
+    </edge>
+    <edge source="academic_block_a" target="dept_electrical_mechanical">
+      <data key="d2">18.77975176032109</data>
+      <data key="d3">1</data>
+      <data key="d4">3.0</data>
+      <data key="d5">0.04054054054054054</data>
+      <data key="d6">0.05501126126126116</data>
+    </edge>
+    <edge source="academic_block_a" target="main_executive_block">
+      <data key="d2">101.89046615536355</data>
+      <data key="d3">3</data>
+      <data key="d4">8.0</data>
+      <data key="d5">0.10810810810810811</data>
+      <data key="d6">0.10623873873873876</data>
+    </edge>
+    <edge source="academic_block_a" target="football_ground">
+      <data key="d2">115.32494684174023</data>
+      <data key="d3">16</data>
+      <data key="d4">35.0</data>
+      <data key="d5">0.47297297297297297</data>
+      <data key="d6">0.46577165477165516</data>
+    </edge>
+    <edge source="dept_electrical_mechanical" target="main_executive_block">
+      <data key="d2">108.74171185557918</data>
+      <data key="d3">27</data>
+      <data key="d4">59.0</data>
+      <data key="d5">0.7972972972972973</data>
+      <data key="d6">0.7602702702702699</data>
+    </edge>
+    <edge source="dept_electrical_mechanical" target="football_ground">
+      <data key="d2">130.62525930459103</data>
+      <data key="d3">18</data>
+      <data key="d4">40.0</data>
+      <data key="d5">0.5405405405405406</data>
+      <data key="d6">0.5360810810810811</data>
+    </edge>
+    <edge source="nanogen" target="academic_block_c1">
+      <data key="d2">89.77712141955728</data>
+      <data key="d3">11</data>
+      <data key="d4">24.0</data>
+      <data key="d5">0.32432432432432434</data>
+      <data key="d6">0.3275972660972661</data>
+    </edge>
+  </graph>
+</graphml>
